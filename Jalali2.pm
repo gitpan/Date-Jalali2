@@ -17,7 +17,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 my @g_days_in_month = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
 my @j_days_in_month = (31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29);
@@ -184,6 +184,7 @@ http://www.cpan.org/
 =head1 AUTHOR
 
 Ahmad Anvari <http://www.anvari.org/bio/>
+
 Redistributed by : Ehsan Golpayegani <http://www.golpayegani.com>
 
 =head1 COPYRIGHT AND LICENSE

@@ -5,7 +5,7 @@
 
 # change 'tests => 1' to 'tests => last_test_to_print';
 
-use Test::More tests => 9;
+use Test::More tests => 15;
 BEGIN { use_ok('Date::Jalali2') };
 
 #########################
